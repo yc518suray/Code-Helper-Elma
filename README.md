@@ -36,9 +36,7 @@ Unfortunately, the buttons and instructions are (for now) in Chinese. Contributi
 
 ## Snapshots
 
-<p align="center">
-<img src="https://drive.google.com/thumbnail?id=1RRiKqHGqKrJaQOQWmBqrT-PikZb5hkDb&sz=s1024" width="500">
-</p>
+<p align="center"><img src="https://i.urusai.cc/pkiSN.gif"></p>
 
 ## License
 
