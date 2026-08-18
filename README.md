@@ -18,6 +18,12 @@ cd Code-Helper-Elma
 pip install -r requirements.txt
 ```
 
+Run the Python program:
+
+```
+python app.py
+```
+
 ## Usage
 
 The buttons and the instructions should indicate the way to use it. Basically, click the right-most button to mark the algorithm (or anything on the PDF page) you refer to. After you click the button, select the code snippets first, and press Ctrl+C. This allows the code snippets to be recorded. Then, mark the reference with a box on the PDF page. Press the (now turned) green button, and confirm the mapping. Done.
